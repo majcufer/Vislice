@@ -2,7 +2,6 @@
 
 ## Avtorji
 
-* Maj Čufer
 * Anja Petkovič
 * Matija Pretnar
 
