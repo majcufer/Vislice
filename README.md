@@ -2,7 +2,6 @@
 
 ## Avtorji
 
-* Janez Novak
 * Anja Petkovič
 * Matija Pretnar
 
